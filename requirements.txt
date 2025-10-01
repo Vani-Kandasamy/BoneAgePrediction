@@ -1,4 +1,4 @@
-streamlit
-numpy
-tensorflow
-scikit-learn
+streamlit==1.26.0    # Example version, update as needed
+numpy==1.23.5        # Example version, update as needed
+tensorflow==2.14.0   # Example version, update as needed
+scikit-learn==1.6.1
